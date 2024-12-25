@@ -13,3 +13,11 @@ console.log(10 == '10');
 
 //strict equal to
 console.log(10 === '10')
+
+//logical operators
+console.log(true && true)
+console.log(true || false)
+console.log(!true);
+
+//ternary operators:
+console.log(10 == '10' ? "equal by value" : "not equal");
